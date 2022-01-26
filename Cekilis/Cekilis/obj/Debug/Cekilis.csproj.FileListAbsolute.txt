@@ -1,0 +1,7 @@
+C:\Users\Dıllo\Desktop\Cekilis\Cekilis\obj\Debug\Cekilis.csproj.AssemblyReference.cache
+C:\Users\Dıllo\Desktop\Cekilis\Cekilis\obj\Debug\Cekilis.csproj.CoreCompileInputs.cache
+C:\Users\Dıllo\Desktop\Cekilis\Cekilis\bin\Debug\Cekilis.exe.config
+C:\Users\Dıllo\Desktop\Cekilis\Cekilis\bin\Debug\Cekilis.exe
+C:\Users\Dıllo\Desktop\Cekilis\Cekilis\bin\Debug\Cekilis.pdb
+C:\Users\Dıllo\Desktop\Cekilis\Cekilis\obj\Debug\Cekilis.exe
+C:\Users\Dıllo\Desktop\Cekilis\Cekilis\obj\Debug\Cekilis.pdb
