@@ -1,0 +1,10 @@
+C:\Users\Dıllo\Desktop\yazılım\PizzApplication\PizzApplication\bin\Debug\PizzApplication.exe.config
+C:\Users\Dıllo\Desktop\yazılım\PizzApplication\PizzApplication\bin\Debug\PizzApplication.exe
+C:\Users\Dıllo\Desktop\yazılım\PizzApplication\PizzApplication\bin\Debug\PizzApplication.pdb
+C:\Users\Dıllo\Desktop\yazılım\PizzApplication\PizzApplication\obj\Debug\PizzApplication.csproj.AssemblyReference.cache
+C:\Users\Dıllo\Desktop\yazılım\PizzApplication\PizzApplication\obj\Debug\PizzApplication.Form1.resources
+C:\Users\Dıllo\Desktop\yazılım\PizzApplication\PizzApplication\obj\Debug\PizzApplication.Properties.Resources.resources
+C:\Users\Dıllo\Desktop\yazılım\PizzApplication\PizzApplication\obj\Debug\PizzApplication.csproj.GenerateResource.cache
+C:\Users\Dıllo\Desktop\yazılım\PizzApplication\PizzApplication\obj\Debug\PizzApplication.csproj.CoreCompileInputs.cache
+C:\Users\Dıllo\Desktop\yazılım\PizzApplication\PizzApplication\obj\Debug\PizzApplication.exe
+C:\Users\Dıllo\Desktop\yazılım\PizzApplication\PizzApplication\obj\Debug\PizzApplication.pdb
